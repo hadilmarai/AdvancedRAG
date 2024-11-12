@@ -1,0 +1,11 @@
+langchain
+langchain_community
+tiktoken
+langchain-mistralai
+scikit-learn
+langgraph
+tavily-python
+bs4
+langchain_groq
+langchain_huggingface
+faiss-cpu
